@@ -21,25 +21,25 @@ Este proyecto corresponde a un laboratorio práctico sobre Git y GitHub.
 
 Daniel Castillo, Miguel Anderson
 
-\## Estructura del proyecto
+## Estructura del proyecto
 
 
 
-\- index.html
+- index.html
 
-\- paginas/nosotros.html
+- paginas/nosotros.html
 
-\- paginas/contacto.html
+- paginas/contacto.html
 
-\- css/estilos.css
-
-
-
-\## Versiones
+- css/estilos.css
 
 
 
-\### Primer commit
+## Versiones
+
+
+
+### Primer commit
 
 
 
@@ -47,7 +47,7 @@ Se creó la estructura inicial del proyecto.
 
 
 
-\### Segundo commit
+### Segundo commit
 
 
 
